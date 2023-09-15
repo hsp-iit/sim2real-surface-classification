@@ -1,9 +1,9 @@
 <h1 align="center">
-  Sim2Real adaptation for Object Surface Classification using Vision-Based Tactile Sensors
+  Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors
 </h1>
 
 <h4 align="center">
-  Sim2Real adaptation for Object Surface Classification using Vision-Based Tactile Sensors
+  Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors
 </h4>
 
 <div align="center">
