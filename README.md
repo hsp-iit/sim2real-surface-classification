@@ -7,9 +7,8 @@
 </h4>
 
 <div align="center">
-  <a href=""><b>Paper</b></a> |
-  <a href=""><b>arXiv</b></a> |
-  <a href=""><b>Video</b></a> |
+  <a href="https://arxiv.org/abs/2311.01380"><b>Paper</b></a> |
+  <a href=""><b>Video</b></a>
 </div>
 
 ## Table of Contents
