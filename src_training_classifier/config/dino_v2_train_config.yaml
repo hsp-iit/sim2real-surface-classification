@@ -1,0 +1,6 @@
+model_name: "dino_v2"
+from_torchvision: False
+input_shape: [3, 224, 224] 
+bottleneck_dim: 256
+weight_norm: True
+bias: True

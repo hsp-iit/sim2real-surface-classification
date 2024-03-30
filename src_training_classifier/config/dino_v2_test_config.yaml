@@ -1,0 +1,15 @@
+model:
+  model_name: "dino_v2"
+  from_torchvision: True
+  input_shape: [3, 224, 224] 
+  bottleneck_dim: 256
+  weight_norm: True
+  bias: True
+  n_classes: 4
+
+data:
+  pad: [40, 0, 40, 0]  # left, top, right and bottom 
+  resize_size: [224, 224]
+  crop_size: [224, 224]
+  mean: [0.485, 0.456, 0.406] 
+  std:  [0.229, 0.224, 0.225]

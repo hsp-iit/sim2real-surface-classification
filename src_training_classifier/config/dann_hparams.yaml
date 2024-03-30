@@ -1,0 +1,71 @@
+
+seed: 0
+
+inner_folder: Null
+labels_file: Null
+
+train_batch_size: 64
+gradient_accumulate_every: 1
+clip_grad_norm: 2.0
+label_smoothing: 0.1
+dis_label_smoothing: 0.05
+eval_percentage: 0.2
+ckpt_folder: './results'
+fp16: False
+sync_bn: True
+
+########################### use epochs or steps: ####################################
+# EPOCHS
+train_use_epochs: False
+train_epochs: 100
+
+# STEPS
+train_use_steps: True
+train_num_steps: 500 #3000 
+eval_every: 100
+
+############################# eval ##################################################
+eval_metric: "accuracy_macro" # or accuracy_micro
+eval_metric_stop_value: 0.9995 
+
+##################################### DATA ##########################################
+pad: [40, 0, 40, 0] # left, top, right and bottom 
+resize_size: [224, 224]
+crop_size: [224, 224]
+mean: [0.485, 0.456, 0.406]
+std:  [0.229, 0.224, 0.225]
+
+############################## SGD optimizer hparams #################################
+train_lr_feature_extractor: 0.0 
+train_lr_bottleneck: 1.0e-2
+train_lr_classifier: 1.0e-2
+train_lr_dicriminator: 1.0e-2
+
+weight_decay: 1.0e-3 
+
+momentum: 0.9
+nesterov: True
+
+########################### exponential lr scheduling ###############################
+gamma: 5.
+power: 0.75
+
+###################### test set #######################################################
+test_data_path: Null
+test_label_map_path: Null
+
+
+######################## discriminator ################################################
+dis_hidden_size: 256
+dis_leaky_slope: 0.1
+dis_spectral_norm: True
+
+####################### gradient reversal ###############################################
+warm_reversal: True
+wr_high: 1.
+wr_low: 0.
+wr_max_steps: 100
+wr_alpha: 1.
+
+beta: 1.2
+
