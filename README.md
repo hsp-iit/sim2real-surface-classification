@@ -1,6 +1,7 @@
 <h1 align="center">
   Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors
 </h1>
+<p align="center"><img src="https://github.com/hsp-iit/sim2real-surface-classification/assets/49904924/4d6a99b5-886d-4dfe-b8ee-040da97af2fa" | width =800 alt=""/></p>
 
 <h4 align="center">
   Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors
