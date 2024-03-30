@@ -25,6 +25,9 @@
 
 2024-04-01 - The code will be released
 
+2024-04-09 - Instruction for installation will be released
+
+
 ## Installation
 
 Instructions to be released.
