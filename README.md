@@ -12,34 +12,22 @@
   <a href=""><b>Video</b></a>
 </div>
 
-## Table of Contents
 
-- [Update](#updates)
-- [Installation](#installation)
-- [Reproduce the results](#reproduce-the-paper-results)
-- [License](#license)
-- [Citing this paper](#citing-this-paper)
-
-## Updates
-
-2023-09-15 - The repository has been created. Code to be released.
-
-2024-04-01 - The code will be released
-
-2024-04-09 - Instruction for installation will be released
-
-
-## Installation
-
-Instructions to be released.
-
-## Reproduce the paper results
-
-Instructions to be released.
-
-## License
 
 ## Citing this paper
+This repository contains source code for the [Sim2Real Bilevel Adaptation](http\s://gabrielecaddeo.github.io/sim2surf/) website.
+
+If you find Sim2Surf useful for your work please cite:
+```
+@misc{caddeo2023sim2real,
+      title={Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors},
+      author={Gabriele M. Caddeo and Andrea Maracani and Paolo D. Alfano and Nicola A. Piga and Lorenzo Rosasco and Lorenzo Natale},
+      year={2023},
+      eprint={2311.01380},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
 
 ## Maintainer
 
