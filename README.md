@@ -48,16 +48,7 @@ This boosts the classifier accuracy to 81.9%, a significant improvement over usi
   <img style="margin: 30px;" src="assets/diffusion_samples.png" width="50%">
 </div>
 
-
-
 Additionally, our approach underwent real-world testing on multiple YCB objects to further validate its effectiveness.<br>
-<br>
-
-<div align="center">
-  <img src="assets/hammer.gif"
-  width="50%">
-</div>
-
 
 
 ## Setup
