@@ -6,13 +6,13 @@
 <div align="center">
   <a href="https://www.iit.it/it/people-details/-/people/gabriele-caddeo">Gabriele Caddeo</a> &nbsp; &nbsp;
   <a href="https://www.iit.it/it/people-details/-/people/andrea-maracani">Andrea Maracani</a> &nbsp; &nbsp;
-  <a href="https://scholar.google.com/citations?user=8orqBsYAAAAJ&hl=en">Paolo Didier Alfano</a> &nbsp; &nbsp;
+  <a href="https://paoloalfano.com/">Paolo Didier Alfano</a> &nbsp; &nbsp;
   <br>
   <a href="https://www.iit.it/it/people-details/-/people/nicola-piga">Nicola Agostino Piga</a> &nbsp; &nbsp;
   <a href="https://web.mit.edu/lrosasco/www/">Lorenzo Rosasco</a> &nbsp; &nbsp;
   <a href="https://lornat75.github.io/">Lorenzo Natale</a> &nbsp; &nbsp;
   <br/>
-  International Conference on Robotics and Automation 2024(<a href="https://corl2022.org/">ICRA</a>)<br>
+  International Conference on Robotics and Automation 2024(<a href="https://2024.ieee-icra.org/">ICRA</a>)<br>
   <br>
 </div>
 
