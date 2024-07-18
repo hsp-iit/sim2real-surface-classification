@@ -26,6 +26,7 @@
 - [Updates](#updates)
 - [Description](#description)
 - [Setup](#setup)
+- [Dataset](#dataset)
 - [License](#license)
 - [Citing this paper](#citing-this-paper)
 
@@ -144,6 +145,27 @@ bash src_training_classifier/load_model_and_test.sh
 
 by setting properly the `DATA_TEST`, `CONFIG` and `CKPT` paths.
 
+
+## Dataset
+Together with our code, we provide two sets of data: the ones we used to train the diffusion model and the ones translated via the diffusion model, i.e. the ones used to train the surface classifier. You can find them at the following link:
+
+<a href="https://zenodo.org/records/12622682">Download the dataset</a>
+
+Dataset folder structure is the following:
+```
+-train_diffusion
+    -images
+        Image_real_0.png
+        ...
+-translated
+    labels.csv
+    -003_cracker_box
+        -images
+            Image_heatmap_0.png
+            ...
+    - ...
+```
+The `translated` folder contains a `labels.csv` file, providing the corresponding label for every image.
 
 ## License
 
