@@ -17,8 +17,9 @@
 </div>
 
 <div align="center">
-  <a href="https://arxiv.org/abs/2311.01380"><b>Paper</b></a> |
-  <a href=""><b>Video</b></a>
+  <a href="https://ieeexplore.ieee.org/document/10610028"><b>Paper ICRA</b></a> |
+  <a href="https://ieeexplore.ieee.org/document/10851808"><b>Paper IEEE SENSORS (Extension)</b></a> |
+  <a href="https://www.youtube.com/watch?v=lcNKkwMJu5Y&t=3s"><b>Video</b></a>
 </div>
 
 ## Table of Contents
